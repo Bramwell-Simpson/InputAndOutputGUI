@@ -1,2 +1,0 @@
-# InputAndOutputGUI
-School Homework
